@@ -60,3 +60,16 @@ To access Application Demo via Link.
 
 3. https://drive.google.com/drive/folders/1Mj58nMhuy7lOxCNZxN42mHNAmbSNIH05?usp=sharing
 
+# Screenshot of deployed application)
+
+1. Screenshot displaying Generated README.md File
+
+![Screenshot of completed application](./Images/Screenshot-README.md.png)
+
+2. Screenshot displaying Generated README.md File Preview
+
+![Screenshot of completed application](./Images/Screenshot-README-Preview.png)
+
+3. Screenshot of terminal with Prompts
+
+![Screenshot of completed application](./Images/Screenshot-PromptsInTerminal.png)
