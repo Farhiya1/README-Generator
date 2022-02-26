@@ -36,3 +36,29 @@ const questions = [
     message: "What are the test instructions?",
     name: "tests",
   },
+  {
+    type: "checkbox",
+    message: "Please select a license.",
+    name: "license",
+    choices: [
+      "MIT",
+      "Apache2.0",
+      "ISC",
+      "GNU Public v3.0",
+      "Boost Software 1.0",
+      "Eclipse Public 2.0",
+      "Moziilla Public 2.0",
+    ],
+  },
+  {
+    type: "input",
+    message: "What is your GitHub username?",
+    name: "username",
+  },
+  {
+    type: "input",
+    message: "What is your email address?",
+    name: "email",
+  },
+];
+
