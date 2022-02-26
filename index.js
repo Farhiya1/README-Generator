@@ -62,3 +62,12 @@ const questions = [
   },
 ];
 
+// Function to write README file
+function writeToFile(fileName, data) {
+  const markdown = generateMarkdown(data);
+  fs.writeFile(fileName, markdown, function (err) {
+    if (err) throw err;
+    console.log("Generated Markdown!");
+  });
+}
+
