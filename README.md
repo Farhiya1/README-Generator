@@ -74,10 +74,6 @@ To access Application Demo via Link.
 
 ![Screenshot of completed application](./Images/Screenshot-PromptsInTerminal.png)
 
-# Video Demo of Application usage
-
-1. [Video of Demo](./Video/Screen Recording-README-DEMO.mov)
-
 # References
 
 1. https://www.npmjs.com/package/inquirer
