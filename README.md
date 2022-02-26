@@ -78,3 +78,8 @@ To access Application Demo via Link.
 
 1. [Video of Demo](./Video/Screen Recording-README-DEMO.mov)
 
+# References
+
+1. https://www.npmjs.com/package/inquirer
+2. https://www.w3schools.com/nodejs/nodejs_filesystem.asp
+   https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
