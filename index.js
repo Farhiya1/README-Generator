@@ -71,3 +71,10 @@ function writeToFile(fileName, data) {
   });
 }
 
+// Function to initialize app
+function init() {
+  inquirer.prompt(questions).then(function (data) {
+    writeToFile(fileName, data);
+  });
+}
+
