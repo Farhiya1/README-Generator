@@ -73,3 +73,8 @@ To access Application Demo via Link.
 3. Screenshot of terminal with Prompts
 
 ![Screenshot of completed application](./Images/Screenshot-PromptsInTerminal.png)
+
+# Video Demo of Application usage
+
+1. [Video of Demo](./Video/Screen Recording-README-DEMO.mov)
+
