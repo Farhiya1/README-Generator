@@ -45,3 +45,18 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
+
+# To access this project the following links are provided:
+
+To access Github Repository
+
+1. https://github.com/Farhiya1/README-Generator.git
+
+To access Application deployed at live URL
+
+2.  https://farhiya1.github.io/README-Generator/
+
+To access Application Demo via Link.
+
+3. https://drive.google.com/drive/folders/1Mj58nMhuy7lOxCNZxN42mHNAmbSNIH05?usp=sharing
+
